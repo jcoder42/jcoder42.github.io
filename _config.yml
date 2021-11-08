@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: SolxNFT
 description: Sol NFTs by Jessalyn
+lsi: false
+safe: true
+source: js/packages/web
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
